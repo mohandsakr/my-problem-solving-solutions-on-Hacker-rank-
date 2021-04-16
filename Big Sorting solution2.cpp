@@ -9,7 +9,7 @@ author :mohand sakr;
 
 */
 
-*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
